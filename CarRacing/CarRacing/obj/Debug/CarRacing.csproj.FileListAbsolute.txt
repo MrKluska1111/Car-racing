@@ -1,0 +1,19 @@
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\bin\Debug\CarRacing.exe.config
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\bin\Debug\CarRacing.exe
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\bin\Debug\CarRacing.pdb
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.Properties.Resources.resources
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.exe
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.pdb
+C:\Users\Kamil\Desktop\proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.pictBoxStartLine.resources
+C:\Users\kamil\Desktop\Programowanie\C# podstawy\Proste projekty\CarRacing\CarRacing\bin\Debug\CarRacing.exe.config
+C:\Users\kamil\Desktop\Programowanie\C# podstawy\Proste projekty\CarRacing\CarRacing\bin\Debug\CarRacing.exe
+C:\Users\kamil\Desktop\Programowanie\C# podstawy\Proste projekty\CarRacing\CarRacing\bin\Debug\CarRacing.pdb
+C:\Users\kamil\Desktop\Programowanie\C# podstawy\Proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Programowanie\C# podstawy\Proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.pictBoxStartLine.resources
+C:\Users\kamil\Desktop\Programowanie\C# podstawy\Proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.Properties.Resources.resources
+C:\Users\kamil\Desktop\Programowanie\C# podstawy\Proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\Programowanie\C# podstawy\Proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Programowanie\C# podstawy\Proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.exe
+C:\Users\kamil\Desktop\Programowanie\C# podstawy\Proste projekty\CarRacing\CarRacing\obj\Debug\CarRacing.pdb
